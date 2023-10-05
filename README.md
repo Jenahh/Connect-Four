@@ -7,5 +7,5 @@ Classic Gameplay: Enjoy the timeless rules and mechanics of Connect Four, where 
 
 Player vs. Player: Challenge a friend or family member locally, taking turns on the same computer.
 
-User-Friendly Interface: The game boasts an intuitive console-based interface, making it accessible to players of all ages.
+User-Friendly Interface: The game has an intuitive console-based interface, making it accessible to players of all ages.
 
