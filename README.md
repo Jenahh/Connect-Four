@@ -9,11 +9,3 @@ Player vs. Player: Challenge a friend or family member locally, taking turns on 
 
 User-Friendly Interface: The game boasts an intuitive console-based interface, making it accessible to players of all ages.
 
-How to Play
-Launch the program in your chosen C++ development environment.
-Follow the on-screen instructions to configure the game, including selecting player names, disc colors, and grid size.
-Take turns dropping your discs into the grid.
-The first player to connect four discs in a row, column, or diagonal wins the game!
-If no player achieves four-in-a-row and the grid is filled, the game ends in a draw.
-Development Team
-The Connect Four Game in C++ project was brought to life by a team of enthusiastic developers who share a passion for coding and gaming. We are dedicated to continuously improving and expanding this project to deliver the best possible Connect Four experience.
