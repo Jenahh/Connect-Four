@@ -1,4 +1,4 @@
-About Connect Four Game in C++ Project Description
+About Connect Four Game in C++
 
 Welcome to the Connect Four Game in C++ project! This project is an exciting implementation of the classic two-player strategy game Connect Four, designed to run in the console. It offers a fun and interactive way to challenge your friends.
 
