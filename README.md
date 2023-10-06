@@ -9,3 +9,4 @@ Player vs. Player: Challenge a friend or family member locally, taking turns on 
 
 User-Friendly Interface: The game has an intuitive console-based interface, making it accessible to players of all ages.
 
+Takes input of a column and then places a game piece in that spot for player 1, repeats this process for player 2 while continuously updating the board by reprinting the board with the updated game piece positions/
